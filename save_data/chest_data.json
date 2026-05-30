@@ -1,5 +1,5 @@
 {
-  "cnt": 22,
+  "cnt": 24,
   "list": [
     {
       "pokeitem_id": 290,
@@ -93,8 +93,8 @@
     },
     {
       "pokeitem_id": 551,
-      "item_cnt": 1,
-      "date": "2026-05-29"
+      "item_cnt": 2,
+      "date": "2026-05-30"
     },
     {
       "pokeitem_id": 282,
@@ -110,6 +110,16 @@
       "pokeitem_id": 246,
       "item_cnt": 1,
       "date": "2026-05-29"
+    },
+    {
+      "pokeitem_id": 284,
+      "item_cnt": 1,
+      "date": "2026-05-30"
+    },
+    {
+      "pokeitem_id": 562,
+      "item_cnt": 1,
+      "date": "2026-05-30"
     }
   ]
 }
