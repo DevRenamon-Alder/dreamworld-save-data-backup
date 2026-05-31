@@ -5,11 +5,11 @@
       "x": 1,
       "y": 1,
       "pokeitem_id": 200,
-      "dirt_hp": 40,
+      "dirt_hp": 37,
       "kinomi_state": 0.0,
       "server": {
         "planted_at": 1780092957,
-        "updated_at": 1780165499,
+        "updated_at": 1780172543,
         "yield": 5
       }
     },
@@ -18,11 +18,11 @@
       "x": 2,
       "y": 1,
       "pokeitem_id": 200,
-      "dirt_hp": 40,
+      "dirt_hp": 37,
       "kinomi_state": 0.0,
       "server": {
         "planted_at": 1780092962,
-        "updated_at": 1780165499,
+        "updated_at": 1780172543,
         "yield": 5
       }
     },
@@ -31,11 +31,11 @@
       "x": 3,
       "y": 1,
       "pokeitem_id": 200,
-      "dirt_hp": 40,
+      "dirt_hp": 37,
       "kinomi_state": 0.0,
       "server": {
         "planted_at": 1780092967,
-        "updated_at": 1780165499,
+        "updated_at": 1780172543,
         "yield": 5
       }
     },
