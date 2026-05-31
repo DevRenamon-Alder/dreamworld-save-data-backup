@@ -1,13 +1,14 @@
 {
-  "pokemon_no": 218,
-  "pokemon_name": "Slugma",
-  "form_no": "0",
-  "type1": "Fire",
-  "type2": null,
-  "pokemon_nickname": "WhytMonstr",
+  "pokemon_no": 321,
+  "form_no": 0,
+  "type1": 0,
+  "type2": 1,
+  "pokemon_nickname": "GOON BABIE",
   "oyaname": "Amber",
-  "level": 4,
-  "sex": 1,
-  "personality": "Quiet",
-  "ball_name": "Premier Ball"
+  "level": 18,
+  "sex": 0,
+  "personality": 17,
+  "ball_name": 4,
+  "trainer_id": 24648,
+  "trainer_secret_id": 5145
 }
